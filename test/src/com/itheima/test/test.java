@@ -6,5 +6,6 @@ public class test {
     }
     public void testt(){
         System.out.println("bbb");
+        System.out.println("ccc");
     }
 }
